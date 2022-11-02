@@ -896,3 +896,57 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.02-16.53.17:415][593]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
 [2022.11.02-16.53.19:535][842]Cmd: TRANSACTION UNDO
 [2022.11.02-16.53.19:535][842]LogEditorTransaction: Undo Move Elements
+[2022.11.02-17.02.39:641][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.11.02-17.02.39:643][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.007
+[2022.11.02-17.05.32:628][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.02-17.05.32:628][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.02-17.05.32:629][512]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_0
+[2022.11.02-17.05.32:637][512]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_0
+[2022.11.02-17.05.35:308][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.02-17.05.35:308][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.02-17.05.35:309][828]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_2
+[2022.11.02-17.05.35:309][828]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_2
+[2022.11.02-17.05.40:016][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2022.11.02-17.05.40:016][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2022.11.02-17.05.40:016][369]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_3
+[2022.11.02-17.05.40:016][369]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_3
+[2022.11.02-17.05.40:734][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2022.11.02-17.05.40:734][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2022.11.02-17.05.40:734][453]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_4
+[2022.11.02-17.05.40:734][453]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Maps/DevMap.DevMap:PersistentLevel.StaticMeshActor_4
+[2022.11.02-17.06.02:975][ 76]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2022.11.02-17.06.02:975][ 76]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2022.11.02-17.06.02:978][ 76]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Maps/DevMap.DevMap:PersistentLevel.Character_0
+[2022.11.02-17.06.02:979][ 76]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Maps/DevMap.DevMap:PersistentLevel.Character_0
+[2022.11.02-17.06.03:586][148]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2022.11.02-17.06.03:586][148]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2022.11.02-17.06.03:587][148]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Maps/DevMap.DevMap:PersistentLevel.Character_1
+[2022.11.02-17.06.03:587][148]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Maps/DevMap.DevMap:PersistentLevel.Character_1
+[2022.11.02-17.06.03:638][148]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.02-17.06.05:250][339]Cmd: DELETE
+[2022.11.02-17.06.05:250][339]Cmd: ACTOR DELETE
+[2022.11.02-17.06.05:264][339]LogEditorActor: Deleted Actor: Character
+[2022.11.02-17.06.05:269][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.02-17.06.05:271][339]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.11.02-17.07.40:866][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.02-17.12.40:223][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.02-17.12.40:225][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Unreal_BluePrint/UE5_BP/Saved/Autosaves/Game/Maps/DevMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.11.02-17.12.40:229][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/DevMap_Auto1
+[2022.11.02-17.12.40:229][615]LogSavePackage: Moving 'D:/Unreal_BluePrint/UE5_BP/Saved/DevMap_Auto1D6E4B51743EFDB8669A6ECADF30BA9EC.tmp' to 'D:/Unreal_BluePrint/UE5_BP/Saved/Autosaves/Game/Maps/DevMap_Auto1.umap'
+[2022.11.02-17.12.40:230][615]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.012
+[2022.11.02-17.12.40:230][615]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2022.11.02-17.49.33:334][223]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.02-17.52.40:567][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Unreal_BluePrint/UE5_BP/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.02-17.52.40:572][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.02-17.52.40:577][790]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2022.11.02-17.52.40:578][790]LogSavePackage: Moving 'D:/Unreal_BluePrint/UE5_BP/Saved/DevMapB2F1E3B344B0417B4D844FA957F7148F.tmp' to 'D:/Unreal_BluePrint/UE5_BP/Content/Maps/DevMap.umap'
+[2022.11.02-17.52.40:582][790]LogFileHelpers: No new changes to save!
+[2022.11.02-17.52.40:589][790]AssetCheck: New page: Asset Save: DevMap
+[2022.11.02-17.52.40:589][790]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2022.11.02-17.52.42:200][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Unreal_BluePrint/UE5_BP/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.02-17.52.42:204][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.02-17.52.42:208][977]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2022.11.02-17.52.42:208][977]LogSavePackage: Moving 'D:/Unreal_BluePrint/UE5_BP/Saved/DevMap352A78C3478B57F29B85D5B0676BD902.tmp' to 'D:/Unreal_BluePrint/UE5_BP/Content/Maps/DevMap.umap'
+[2022.11.02-17.52.42:212][977]LogFileHelpers: No new changes to save!
+[2022.11.02-17.52.42:216][977]AssetCheck: New page: Asset Save: DevMap
+[2022.11.02-17.52.42:216][977]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
