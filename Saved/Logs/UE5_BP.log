@@ -1196,3 +1196,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.03-15.36.01:122][536]LogContentBrowser: Attempting asset rename: NewFolder -> Scripts
 [2022.11.03-15.36.01:122][536]LogContentBrowser: End creating deferred item NewFolder
 [2022.11.03-15.49.33:578][694]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-16.15.27:372][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.03-16.15.27:375][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Unreal_BluePrint/UE5_BP/Saved/Autosaves/Game/Maps/DevMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.11.03-16.15.27:380][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/DevMap_Auto5
+[2022.11.03-16.15.27:380][853]LogSavePackage: Moving 'D:/Unreal_BluePrint/UE5_BP/Saved/DevMap_Auto52113E21044585952A2205F99608E00E3.tmp' to 'D:/Unreal_BluePrint/UE5_BP/Saved/Autosaves/Game/Maps/DevMap_Auto5.umap'
+[2022.11.03-16.15.27:381][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.039
+[2022.11.03-16.15.27:381][853]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
