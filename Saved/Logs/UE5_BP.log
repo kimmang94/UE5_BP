@@ -950,3 +950,29 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.02-17.52.42:212][977]LogFileHelpers: No new changes to save!
 [2022.11.02-17.52.42:216][977]AssetCheck: New page: Asset Save: DevMap
 [2022.11.02-17.52.42:216][977]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
+[2022.11.02-18.49.33:466][222]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.02-19.49.33:505][939]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.02-20.49.33:550][665]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.02-21.49.33:463][389]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.02-22.49.33:598][111]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.02-23.49.33:307][834]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-00.49.33:579][561]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-01.49.33:354][287]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-02.49.33:346][ 11]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-03.49.33:515][734]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-04.49.33:616][460]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-05.49.33:421][186]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-06.49.33:510][909]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-07.49.33:560][637]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.03-07.58.36:796][964]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/DevMap.DevMap:PersistentLevel.DevMap
+[2022.11.03-07.58.36:797][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.03-07.58.37:505][964]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.03-07.58.46:409][690]LogSlate: Window 'DevMap' being destroyed
+[2022.11.03-07.59.03:475][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="D:/Unreal_BluePrint/UE5_BP/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.03-07.59.03:494][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.03-07.59.03:500][578]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2022.11.03-07.59.03:500][578]LogSavePackage: Moving 'D:/Unreal_BluePrint/UE5_BP/Saved/DevMap6EF307CA4D13D6957E421BB033EA34AA.tmp' to 'D:/Unreal_BluePrint/UE5_BP/Content/Maps/DevMap.umap'
+[2022.11.03-07.59.03:504][578]LogFileHelpers: No new changes to save!
+[2022.11.03-07.59.03:504][578]LogFileHelpers: Saving map 'DevMap' took 0.029
+[2022.11.03-07.59.03:511][578]AssetCheck: New page: Asset Save: DevMap
+[2022.11.03-07.59.03:511][578]LogContentValidation: Display: Validating World /Game/Maps/DevMap.DevMap
